@@ -5,7 +5,7 @@
     "sourceType": "module"
   },
   "rules": {
-    "no-unused-vars": ["warning", { "args": "none" }],
+    "no-unused-vars": ["warn", { "args": "none" }],
     "no-console": "off"
   },
   "env": {
